@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391830778529",
+    "project_id": "swiftnex-f0a83",
+    "storage_bucket": "swiftnex-f0a83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391830778529:android:ad878198eb5ad26440b6e0",
+        "android_client_info": {
+          "package_name": "com.example.swiftnex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLRd81U6pUIa8bozgPHzFTOCyl1nzG3Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
